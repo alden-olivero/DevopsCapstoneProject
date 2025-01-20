@@ -56,7 +56,7 @@
         </dependency>
    </dependencies>
    <build>
-        <finalName>mywar</finalName>
+        <finalName>capstonewar</finalName>
         <plugins>
           <plugin>
                 <groupId>org.springframework.boot</groupId>
